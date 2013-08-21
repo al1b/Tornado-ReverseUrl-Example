@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        {{ page_name }} - TornadoWeb framework reverse_url example
+    </title>
+</head>
+<body>
+<h3>Welcome to {{ page_name }}</h3>
+{{ '<a href="{}">Home</a>'.format(reverse_url('main')) }}
+</body>
+</html>
