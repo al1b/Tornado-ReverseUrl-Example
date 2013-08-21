@@ -15,12 +15,5 @@ A simple example to see how you can use  <a href='http://www.tornadoweb.org/en/s
 
 
 
-<strong>How to use</strong>
-<br />
-First in command-line execute command : python ____init____.py 
-<br />
-then you can browser the example in the browser: http://127.0.0.1:8083
-
-
 
 
