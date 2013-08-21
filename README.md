@@ -15,7 +15,7 @@ It's really a simple example but you can see how you can use <a href='http://www
 
 
 
-<strong>How to use<strong>
+<strong>How to use</strong>
 <br />
 First in command-line execute command : python __init__.py 
 <br />
